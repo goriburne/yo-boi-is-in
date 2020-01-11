@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5a16fe2891dbda24baf01376610140ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - chopSound1: {fileID: 8300000, guid: fe0b1f9aeb45b41b089175aeeabd5d95, type: 3}
+  - chopSound2: {fileID: 8300000, guid: d46323e22e74e46baa241cbf48c85671, type: 3}
+  - dmgSprite: {fileID: 21300000, guid: cd6d0771ed5bd724abdd829297c1403d, type: 3}
+  - ChopSound1: {fileID: 8300000, guid: fe0b1f9aeb45b41b089175aeeabd5d95, type: 3}
+  - ChopSound2: {fileID: 8300000, guid: d46323e22e74e46baa241cbf48c85671, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
